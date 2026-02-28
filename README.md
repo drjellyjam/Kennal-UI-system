@@ -6,6 +6,8 @@ Its not the best but its simple, easy to use, has no dependencies and works.
 
 Has support for buttons, text labels, toggles, textboxes, tooltips
 
+There are some sprites in the code you will have to replace with custom ones but that is about it.
+
 # Usage example
 ```
 ui = new Ui(0,0,640,320) //base ui panel
